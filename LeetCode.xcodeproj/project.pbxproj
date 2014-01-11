@@ -1,0 +1,292 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C01A50991685219400C88AFD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C01A50981685219400C88AFD /* main.cpp */; };
+		C01A509B1685219400C88AFD /* LeetCode.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C01A509A1685219400C88AFD /* LeetCode.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C01A50921685219400C88AFD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				C01A509B1685219400C88AFD /* LeetCode.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		C01A50941685219400C88AFD /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
+		C01A50981685219400C88AFD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		C01A509A1685219400C88AFD /* LeetCode.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = LeetCode.1; sourceTree = "<group>"; };
+		CFC937CB1881E0A700F0AD3C /* 3Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3Sum.cpp; sourceTree = "<group>"; };
+		CFC937CC1881E0A700F0AD3C /* 3SumClosest_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3SumClosest_1.cpp; sourceTree = "<group>"; };
+		CFC937CD1881E0A700F0AD3C /* 4Sum_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4Sum_2.cpp; sourceTree = "<group>"; };
+		CFC937CE1881E0A700F0AD3C /* 4Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4Sum.cpp; sourceTree = "<group>"; };
+		CFC937CF1881E0A700F0AD3C /* Add_two_number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Add_two_number.cpp; sourceTree = "<group>"; };
+		CFC937D01881E0A700F0AD3C /* AddBinary_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = AddBinary_1.cpp; sourceTree = "<group>"; };
+		CFC937D11881E0A700F0AD3C /* AddBinary_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = AddBinary_2.cpp; sourceTree = "<group>"; };
+		CFC937D21881E0A700F0AD3C /* Anagrams.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Anagrams.cpp; sourceTree = "<group>"; };
+		CFC937D31881E0A700F0AD3C /* B-Tree-InOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B-Tree-InOrder.cpp"; sourceTree = "<group>"; };
+		CFC937D41881E0A700F0AD3C /* B-Tree-LevelOrder_II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B-Tree-LevelOrder_II.cpp"; sourceTree = "<group>"; };
+		CFC937D51881E0A700F0AD3C /* B-Tree-LevelOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B-Tree-LevelOrder.cpp"; sourceTree = "<group>"; };
+		CFC937D61881E0A700F0AD3C /* B-Tree-MaxPath.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B-Tree-MaxPath.cpp"; sourceTree = "<group>"; };
+		CFC937D71881E0A700F0AD3C /* B-Tree-ZigZagLevelOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B-Tree-ZigZagLevelOrder.cpp"; sourceTree = "<group>"; };
+		CFC937D81881E0A700F0AD3C /* BalancedBT.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BalancedBT.cpp; sourceTree = "<group>"; };
+		CFC937D91881E0A700F0AD3C /* BalancedBT.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = BalancedBT.txt; sourceTree = "<group>"; };
+		CFC937DA1881E0A700F0AD3C /* Climb_Stairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Climb_Stairs.cpp; sourceTree = "<group>"; };
+		CFC937DB1881E0A700F0AD3C /* combination_sum_II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = combination_sum_II.cpp; sourceTree = "<group>"; };
+		CFC937DC1881E0A700F0AD3C /* combination_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = combination_sum.cpp; sourceTree = "<group>"; };
+		CFC937DD1881E0A700F0AD3C /* combination.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = combination.cpp; sourceTree = "<group>"; };
+		CFC937DE1881E0A700F0AD3C /* Container With Most Water.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Container With Most Water.cpp"; sourceTree = "<group>"; };
+		CFC937DF1881E0A700F0AD3C /* Edit Distance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Edit Distance.cpp"; sourceTree = "<group>"; };
+		CFC937E01881E0A700F0AD3C /* Generate Parentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Generate Parentheses.cpp"; sourceTree = "<group>"; };
+		CFC937E11881E0A700F0AD3C /* Grey Code.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Grey Code.cpp"; sourceTree = "<group>"; };
+		CFC937E21881E0A800F0AD3C /* InOrder_PostOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = InOrder_PostOrder.cpp; sourceTree = "<group>"; };
+		CFC937E31881E0A800F0AD3C /* Sqrt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Sqrt.cpp; sourceTree = "<group>"; };
+		CFC937E41881E0A800F0AD3C /* Sqrt.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Sqrt.txt; sourceTree = "<group>"; };
+		CFC937E51881E0A800F0AD3C /* Stock1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stock1.cpp; sourceTree = "<group>"; };
+		CFC937E61881E0A800F0AD3C /* Stock2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stock2.cpp; sourceTree = "<group>"; };
+		CFC937E71881E0A800F0AD3C /* Stock3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stock3.cpp; sourceTree = "<group>"; };
+		CFC937E81881E0A800F0AD3C /* StringToInt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = StringToInt.cpp; sourceTree = "<group>"; };
+		CFC937E91881E0A800F0AD3C /* StringToInt.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = StringToInt.txt; sourceTree = "<group>"; };
+		CFC937EA1881E0A800F0AD3C /* Sum3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Sum3.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C01A50911685219400C88AFD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C01A50891685219400C88AFD = {
+			isa = PBXGroup;
+			children = (
+				C01A50971685219400C88AFD /* LeetCode */,
+				C01A50951685219400C88AFD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C01A50951685219400C88AFD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C01A50941685219400C88AFD /* LeetCode */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C01A50971685219400C88AFD /* LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				CFC937CA1881E05D00F0AD3C /* Solutions */,
+				C01A50981685219400C88AFD /* main.cpp */,
+				C01A509A1685219400C88AFD /* LeetCode.1 */,
+			);
+			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		CFC937CA1881E05D00F0AD3C /* Solutions */ = {
+			isa = PBXGroup;
+			children = (
+				CFC937CB1881E0A700F0AD3C /* 3Sum.cpp */,
+				CFC937CC1881E0A700F0AD3C /* 3SumClosest_1.cpp */,
+				CFC937CD1881E0A700F0AD3C /* 4Sum_2.cpp */,
+				CFC937CE1881E0A700F0AD3C /* 4Sum.cpp */,
+				CFC937CF1881E0A700F0AD3C /* Add_two_number.cpp */,
+				CFC937D01881E0A700F0AD3C /* AddBinary_1.cpp */,
+				CFC937D11881E0A700F0AD3C /* AddBinary_2.cpp */,
+				CFC937D21881E0A700F0AD3C /* Anagrams.cpp */,
+				CFC937D31881E0A700F0AD3C /* B-Tree-InOrder.cpp */,
+				CFC937D41881E0A700F0AD3C /* B-Tree-LevelOrder_II.cpp */,
+				CFC937D51881E0A700F0AD3C /* B-Tree-LevelOrder.cpp */,
+				CFC937D61881E0A700F0AD3C /* B-Tree-MaxPath.cpp */,
+				CFC937D71881E0A700F0AD3C /* B-Tree-ZigZagLevelOrder.cpp */,
+				CFC937D81881E0A700F0AD3C /* BalancedBT.cpp */,
+				CFC937D91881E0A700F0AD3C /* BalancedBT.txt */,
+				CFC937DA1881E0A700F0AD3C /* Climb_Stairs.cpp */,
+				CFC937DB1881E0A700F0AD3C /* combination_sum_II.cpp */,
+				CFC937DC1881E0A700F0AD3C /* combination_sum.cpp */,
+				CFC937DD1881E0A700F0AD3C /* combination.cpp */,
+				CFC937DE1881E0A700F0AD3C /* Container With Most Water.cpp */,
+				CFC937DF1881E0A700F0AD3C /* Edit Distance.cpp */,
+				CFC937E01881E0A700F0AD3C /* Generate Parentheses.cpp */,
+				CFC937E11881E0A700F0AD3C /* Grey Code.cpp */,
+				CFC937E21881E0A800F0AD3C /* InOrder_PostOrder.cpp */,
+				CFC937E31881E0A800F0AD3C /* Sqrt.cpp */,
+				CFC937E41881E0A800F0AD3C /* Sqrt.txt */,
+				CFC937E51881E0A800F0AD3C /* Stock1.cpp */,
+				CFC937E61881E0A800F0AD3C /* Stock2.cpp */,
+				CFC937E71881E0A800F0AD3C /* Stock3.cpp */,
+				CFC937E81881E0A800F0AD3C /* StringToInt.cpp */,
+				CFC937E91881E0A800F0AD3C /* StringToInt.txt */,
+				CFC937EA1881E0A800F0AD3C /* Sum3.cpp */,
+			);
+			path = Solutions;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C01A50931685219400C88AFD /* LeetCode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01A509E1685219400C88AFD /* Build configuration list for PBXNativeTarget "LeetCode" */;
+			buildPhases = (
+				C01A50901685219400C88AFD /* Sources */,
+				C01A50911685219400C88AFD /* Frameworks */,
+				C01A50921685219400C88AFD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LeetCode;
+			productName = LeetCode;
+			productReference = C01A50941685219400C88AFD /* LeetCode */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C01A508B1685219400C88AFD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = Microsoft;
+			};
+			buildConfigurationList = C01A508E1685219400C88AFD /* Build configuration list for PBXProject "LeetCode" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C01A50891685219400C88AFD;
+			productRefGroup = C01A50951685219400C88AFD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C01A50931685219400C88AFD /* LeetCode */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C01A50901685219400C88AFD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C01A50991685219400C88AFD /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		C01A509C1685219400C88AFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C01A509D1685219400C88AFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		C01A509F1685219400C88AFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++98";
+				CLANG_CXX_LIBRARY = "libstdc++";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C01A50A01685219400C88AFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++98";
+				CLANG_CXX_LIBRARY = "libstdc++";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01A508E1685219400C88AFD /* Build configuration list for PBXProject "LeetCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01A509C1685219400C88AFD /* Debug */,
+				C01A509D1685219400C88AFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01A509E1685219400C88AFD /* Build configuration list for PBXNativeTarget "LeetCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01A509F1685219400C88AFD /* Debug */,
+				C01A50A01685219400C88AFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C01A508B1685219400C88AFD /* Project object */;
+}
