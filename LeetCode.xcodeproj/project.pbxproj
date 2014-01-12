@@ -60,6 +60,7 @@
 		CFC937E81881E0A800F0AD3C /* StringToInt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = StringToInt.cpp; sourceTree = "<group>"; };
 		CFC937E91881E0A800F0AD3C /* StringToInt.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = StringToInt.txt; sourceTree = "<group>"; };
 		CFC937EA1881E0A800F0AD3C /* Sum3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Sum3.cpp; sourceTree = "<group>"; };
+		CFC937EC1881E1C800F0AD3C /* SingleNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SingleNumber.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +135,7 @@
 				CFC937E81881E0A800F0AD3C /* StringToInt.cpp */,
 				CFC937E91881E0A800F0AD3C /* StringToInt.txt */,
 				CFC937EA1881E0A800F0AD3C /* Sum3.cpp */,
+				CFC937EC1881E1C800F0AD3C /* SingleNumber.h */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";

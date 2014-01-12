@@ -1,3 +1,6 @@
+#include <iostream>
+#include <string>
+
 class Solution {
 public:
     int atoi(const char *inStr) {
