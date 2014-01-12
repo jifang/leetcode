@@ -31,6 +31,7 @@
 		CF46991218831A2000304204 /* Maximum_Depth_of_Binary_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Maximum_Depth_of_Binary_Tree.h; sourceTree = "<group>"; };
 		CF46991318831BEF00304204 /* Same_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Same_Tree.h; sourceTree = "<group>"; };
 		CF46991418831EB500304204 /* Reverse_Integer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Reverse_Integer.h; sourceTree = "<group>"; };
+		CF46991518833A7C00304204 /* Unique_Binary_Search_Trees.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Unique_Binary_Search_Trees.h; sourceTree = "<group>"; };
 		CFC937CB1881E0A700F0AD3C /* 3Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3Sum.cpp; sourceTree = "<group>"; };
 		CFC937CC1881E0A700F0AD3C /* 3SumClosest_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3SumClosest_1.cpp; sourceTree = "<group>"; };
 		CFC937CD1881E0A700F0AD3C /* 4Sum_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4Sum_2.cpp; sourceTree = "<group>"; };
@@ -142,6 +143,7 @@
 				CF46991218831A2000304204 /* Maximum_Depth_of_Binary_Tree.h */,
 				CF46991318831BEF00304204 /* Same_Tree.h */,
 				CF46991418831EB500304204 /* Reverse_Integer.h */,
+				CF46991518833A7C00304204 /* Unique_Binary_Search_Trees.h */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
