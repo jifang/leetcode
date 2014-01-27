@@ -28,6 +28,7 @@
 		C01A50941685219400C88AFD /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		C01A50981685219400C88AFD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		C01A509A1685219400C88AFD /* LeetCode.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = LeetCode.1; sourceTree = "<group>"; };
+		CF3ED98A18965AD600371BD9 /* Triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Triangle.h; sourceTree = "<group>"; };
 		CF46991218831A2000304204 /* Maximum_Depth_of_Binary_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Maximum_Depth_of_Binary_Tree.h; sourceTree = "<group>"; };
 		CF46991318831BEF00304204 /* Same_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Same_Tree.h; sourceTree = "<group>"; };
 		CF46991418831EB500304204 /* Reverse_Integer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Reverse_Integer.h; sourceTree = "<group>"; };
@@ -176,6 +177,7 @@
 				CF6816241895DFC20094F42C /* Binary_Tree_Maximum_Path_Sum.h */,
 				CF6816261895FAB80094F42C /* Copy_List_with_Random_Pointer.h */,
 				CF6816271896341A0094F42C /* Reorder_List.h */,
+				CF3ED98A18965AD600371BD9 /* Triangle.h */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
