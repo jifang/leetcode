@@ -45,6 +45,7 @@
 		CF6816211894E9CC0094F42C /* Valid_Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Valid_Parentheses.h; sourceTree = "<group>"; };
 		CF6816221894EDD90094F42C /* Divide_Two_Integers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Divide_Two_Integers.h; sourceTree = "<group>"; };
 		CF6816231894FD810094F42C /* Symmetric_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Symmetric_Tree.h; sourceTree = "<group>"; };
+		CF6816241895DFC20094F42C /* Binary_Tree_Maximum_Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Binary_Tree_Maximum_Path_Sum.h; sourceTree = "<group>"; };
 		CFC937CB1881E0A700F0AD3C /* 3Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3Sum.cpp; sourceTree = "<group>"; };
 		CFC937CC1881E0A700F0AD3C /* 3SumClosest_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3SumClosest_1.cpp; sourceTree = "<group>"; };
 		CFC937CD1881E0A700F0AD3C /* 4Sum_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4Sum_2.cpp; sourceTree = "<group>"; };
@@ -170,6 +171,7 @@
 				CF6816211894E9CC0094F42C /* Valid_Parentheses.h */,
 				CF6816221894EDD90094F42C /* Divide_Two_Integers.h */,
 				CF6816231894FD810094F42C /* Symmetric_Tree.h */,
+				CF6816241895DFC20094F42C /* Binary_Tree_Maximum_Path_Sum.h */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
