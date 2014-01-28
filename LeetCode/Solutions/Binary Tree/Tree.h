@@ -9,6 +9,8 @@
 #ifndef LeetCode_Tree_h
 #define LeetCode_Tree_h
 
+#define RUN 	static void run () {};
+
 struct TreeNode {
 	int val;
 	TreeNode *left;
