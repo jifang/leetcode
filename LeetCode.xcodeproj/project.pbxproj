@@ -69,7 +69,6 @@
 		CFC937D61881E0A700F0AD3C /* B-Tree-MaxPath.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "B-Tree-MaxPath.cpp"; path = "../B-Tree-MaxPath.cpp"; sourceTree = "<group>"; };
 		CFC937D71881E0A700F0AD3C /* B-Tree-ZigZagLevelOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "B-Tree-ZigZagLevelOrder.cpp"; path = "../B-Tree-ZigZagLevelOrder.cpp"; sourceTree = "<group>"; };
 		CFC937D81881E0A700F0AD3C /* BalancedBT.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = BalancedBT.cpp; path = ../BalancedBT.cpp; sourceTree = "<group>"; };
-		CFC937D91881E0A700F0AD3C /* BalancedBT.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = BalancedBT.txt; path = ../BalancedBT.txt; sourceTree = "<group>"; };
 		CFC937DA1881E0A700F0AD3C /* Climb_Stairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Climb_Stairs.cpp; sourceTree = "<group>"; };
 		CFC937DB1881E0A700F0AD3C /* combination_sum_II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = combination_sum_II.cpp; sourceTree = "<group>"; };
 		CFC937DC1881E0A700F0AD3C /* combination_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = combination_sum.cpp; sourceTree = "<group>"; };
@@ -138,7 +137,6 @@
 				CFC937D61881E0A700F0AD3C /* B-Tree-MaxPath.cpp */,
 				CFC937D71881E0A700F0AD3C /* B-Tree-ZigZagLevelOrder.cpp */,
 				CFC937D81881E0A700F0AD3C /* BalancedBT.cpp */,
-				CFC937D91881E0A700F0AD3C /* BalancedBT.txt */,
 				CF46991218831A2000304204 /* Maximum_Depth_of_Binary_Tree.h */,
 				CF46991318831BEF00304204 /* Same_Tree.h */,
 				CF46991518833A7C00304204 /* Unique_Binary_Search_Trees.h */,
