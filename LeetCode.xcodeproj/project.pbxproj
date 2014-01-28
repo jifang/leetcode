@@ -35,6 +35,7 @@
 		CF3ED993189784D800371BD9 /* Sum_Root_to_Leaf_Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sum_Root_to_Leaf_Numbers.h; sourceTree = "<group>"; };
 		CF3ED994189792E700371BD9 /* Path_Sum_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Path_Sum_II.h; sourceTree = "<group>"; };
 		CF3ED995189796DC00371BD9 /* Minimum_Depth_of_Binary_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Minimum_Depth_of_Binary_Tree.h; sourceTree = "<group>"; };
+		CF3ED996189798F500371BD9 /* Convert_Sorted_List_to_Binary_Search_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Convert_Sorted_List_to_Binary_Search_Tree.h; sourceTree = "<group>"; };
 		CF46991218831A2000304204 /* Maximum_Depth_of_Binary_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Maximum_Depth_of_Binary_Tree.h; path = ../Maximum_Depth_of_Binary_Tree.h; sourceTree = "<group>"; };
 		CF46991318831BEF00304204 /* Same_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Same_Tree.h; path = ../Same_Tree.h; sourceTree = "<group>"; };
 		CF46991418831EB500304204 /* Reverse_Integer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Reverse_Integer.h; path = ../Reverse_Integer.h; sourceTree = "<group>"; };
@@ -151,6 +152,7 @@
 				CF3ED98E1896670D00371BD9 /* Tree.h */,
 				CF3ED993189784D800371BD9 /* Sum_Root_to_Leaf_Numbers.h */,
 				CF3ED995189796DC00371BD9 /* Minimum_Depth_of_Binary_Tree.h */,
+				CF3ED996189798F500371BD9 /* Convert_Sorted_List_to_Binary_Search_Tree.h */,
 			);
 			path = "Binary Tree";
 			sourceTree = "<group>";
