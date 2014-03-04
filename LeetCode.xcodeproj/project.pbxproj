@@ -28,6 +28,7 @@
 		C01A50941685219400C88AFD /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		C01A50981685219400C88AFD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		C01A509A1685219400C88AFD /* LeetCode.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = LeetCode.1; sourceTree = "<group>"; };
+		CF0974F718C5CD4200736723 /* Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.h; sourceTree = "<group>"; };
 		CF3ED98A18965AD600371BD9 /* Triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Triangle.h; sourceTree = "<group>"; };
 		CF3ED98B189661DD00371BD9 /* Populating_Next_Right_Pointers_in_Each_Node_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Populating_Next_Right_Pointers_in_Each_Node_II.h; path = ../Populating_Next_Right_Pointers_in_Each_Node_II.h; sourceTree = "<group>"; };
 		CF3ED98D189666D500371BD9 /* Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Path_Sum.h; sourceTree = "<group>"; };
@@ -135,6 +136,7 @@
 			children = (
 				CFC937E21881E0A800F0AD3C /* InOrder_PostOrder.cpp */,
 				CF3ED9991897ADEF00371BD9 /* Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.h */,
+				CF0974F718C5CD4200736723 /* Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.h */,
 				CF6816231894FD810094F42C /* Symmetric_Tree.h */,
 				CFC937D31881E0A700F0AD3C /* B-Tree-InOrder.cpp */,
 				CFC937D41881E0A700F0AD3C /* B-Tree-LevelOrder_II.cpp */,
