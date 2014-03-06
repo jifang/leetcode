@@ -1,6 +1,7 @@
 //
 //  Recover_Binary_Search_Tree.h
 //  LeetCode
+//  !@TODO: Still can be further optimized by abort in the middle once we found two bad nodes?
 //
 //  Created by Fish on 3/4/14.
 //  Copyright (c) 2014 Microsoft. All rights reserved.
@@ -30,8 +31,49 @@ public:
 		s.recoverTree(node1);
 	}
 	
+	// Space O(1)
+	void recoverTree(TreeNode * root)
+	{
+		if (!root)
+			return;
+		
+		TreeNode * currentMax = NULL;
+		TreeNode * badNode1 = NULL;
+		TreeNode * badNode2 = NULL;
+		inOrderTraverse(root, badNode1, badNode2, currentMax);
+		
+		swap(badNode1, badNode2);
+	}
+	
+	void inOrderTraverse(TreeNode * root, TreeNode * &badNode1, TreeNode * &badNode2, TreeNode * &currentMax)
+	{
+		if (currentMax && currentMax->val > root->val)
+		{
+			if (!badNode1)
+				badNode1 = currentMax;
+			badNode2 = root;
+		}
+		
+		if (root->left)
+		{
+			inOrderTraverse(root->left, badNode1, badNode2, currentMax);
+		}
+		
+		if (currentMax && currentMax->val > root->val)
+		{
+			if (!badNode1)
+				badNode1 = currentMax;
+			badNode2 = root;
+		}
+		
+		currentMax = root;
+		
+		if (root->right)
+			inOrderTraverse(root->right, badNode1, badNode2, currentMax);
+	}
+	
 	// Space O(n)
-    void recoverTree(TreeNode *root)
+    void recoverTreeN(TreeNode *root)
 	{
 		vector<TreeNode *> queue(0);
 		queue.reserve(100);
