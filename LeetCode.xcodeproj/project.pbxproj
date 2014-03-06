@@ -30,6 +30,7 @@
 		C01A509A1685219400C88AFD /* LeetCode.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = LeetCode.1; sourceTree = "<group>"; };
 		CF0974F718C5CD4200736723 /* Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.h; sourceTree = "<group>"; };
 		CF0974F818C5D3AC00736723 /* Flatten_Binary_Tree_to_Linked_List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Flatten_Binary_Tree_to_Linked_List.h; sourceTree = "<group>"; };
+		CF0974F918C70BBE00736723 /* Recover_Binary_Search_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Recover_Binary_Search_Tree.h; sourceTree = "<group>"; };
 		CF3ED98A18965AD600371BD9 /* Triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Triangle.h; sourceTree = "<group>"; };
 		CF3ED98B189661DD00371BD9 /* Populating_Next_Right_Pointers_in_Each_Node_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Populating_Next_Right_Pointers_in_Each_Node_II.h; path = ../Populating_Next_Right_Pointers_in_Each_Node_II.h; sourceTree = "<group>"; };
 		CF3ED98D189666D500371BD9 /* Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Path_Sum.h; sourceTree = "<group>"; };
@@ -163,6 +164,7 @@
 				CF3ED9971897A56D00371BD9 /* Convert_Sorted_Array_to_Binary_Search_Tree.h */,
 				CF3ED9981897A7B000371BD9 /* Binary_Tree_Level_Order_Traversal.h */,
 				CF0974F818C5D3AC00736723 /* Flatten_Binary_Tree_to_Linked_List.h */,
+				CF0974F918C70BBE00736723 /* Recover_Binary_Search_Tree.h */,
 			);
 			path = "Binary Tree";
 			sourceTree = "<group>";
