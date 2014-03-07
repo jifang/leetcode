@@ -32,6 +32,7 @@
 		CF0974F818C5D3AC00736723 /* Flatten_Binary_Tree_to_Linked_List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Flatten_Binary_Tree_to_Linked_List.h; sourceTree = "<group>"; };
 		CF0974F918C70BBE00736723 /* Recover_Binary_Search_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Recover_Binary_Search_Tree.h; sourceTree = "<group>"; };
 		CF0974FA18C87D1200736723 /* Validate_Binary_Search_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Validate_Binary_Search_Tree.h; sourceTree = "<group>"; };
+		CF0974FB18C87ECB00736723 /* Unique_Binary_Search_Trees_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Unique_Binary_Search_Trees_II.h; sourceTree = "<group>"; };
 		CF3ED98A18965AD600371BD9 /* Triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Triangle.h; sourceTree = "<group>"; };
 		CF3ED98B189661DD00371BD9 /* Populating_Next_Right_Pointers_in_Each_Node_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Populating_Next_Right_Pointers_in_Each_Node_II.h; path = ../Populating_Next_Right_Pointers_in_Each_Node_II.h; sourceTree = "<group>"; };
 		CF3ED98D189666D500371BD9 /* Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Path_Sum.h; sourceTree = "<group>"; };
@@ -150,6 +151,7 @@
 				CF46991218831A2000304204 /* Maximum_Depth_of_Binary_Tree.h */,
 				CF46991318831BEF00304204 /* Same_Tree.h */,
 				CF46991518833A7C00304204 /* Unique_Binary_Search_Trees.h */,
+				CF0974FB18C87ECB00736723 /* Unique_Binary_Search_Trees_II.h */,
 				CF681619189490E70094F42C /* Populating_Next_Right_Pointers_in_Each_Node.h */,
 				CF3ED98B189661DD00371BD9 /* Populating_Next_Right_Pointers_in_Each_Node_II.h */,
 				CF68161B1894CA830094F42C /* Binary_Tree_Inorder_Traversal.h */,
