@@ -36,6 +36,7 @@
 		CF0974FC18CAD7E300736723 /* Insertion_Sort_List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Insertion_Sort_List.h; sourceTree = "<group>"; };
 		CF0974FD18CAF20200736723 /* Sort_List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sort_List.h; sourceTree = "<group>"; };
 		CF0974FE18CB101E00736723 /* Reverse_Linked_List_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Reverse_Linked_List_II.h; sourceTree = "<group>"; };
+		CF0974FF18CB15E300736723 /* Partition_List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Partition_List.h; sourceTree = "<group>"; };
 		CF3ED98A18965AD600371BD9 /* Triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Triangle.h; sourceTree = "<group>"; };
 		CF3ED98B189661DD00371BD9 /* Populating_Next_Right_Pointers_in_Each_Node_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Populating_Next_Right_Pointers_in_Each_Node_II.h; path = ../Populating_Next_Right_Pointers_in_Each_Node_II.h; sourceTree = "<group>"; };
 		CF3ED98D189666D500371BD9 /* Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Path_Sum.h; sourceTree = "<group>"; };
@@ -186,6 +187,7 @@
 				CF0974FC18CAD7E300736723 /* Insertion_Sort_List.h */,
 				CF0974FD18CAF20200736723 /* Sort_List.h */,
 				CF0974FE18CB101E00736723 /* Reverse_Linked_List_II.h */,
+				CF0974FF18CB15E300736723 /* Partition_List.h */,
 			);
 			path = "Linked List";
 			sourceTree = "<group>";
