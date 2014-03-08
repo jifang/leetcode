@@ -33,10 +33,11 @@
 		CF0974F918C70BBE00736723 /* Recover_Binary_Search_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Recover_Binary_Search_Tree.h; sourceTree = "<group>"; };
 		CF0974FA18C87D1200736723 /* Validate_Binary_Search_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Validate_Binary_Search_Tree.h; sourceTree = "<group>"; };
 		CF0974FB18C87ECB00736723 /* Unique_Binary_Search_Trees_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Unique_Binary_Search_Trees_II.h; sourceTree = "<group>"; };
+		CF0974FC18CAD7E300736723 /* Insertion_Sort_List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Insertion_Sort_List.h; sourceTree = "<group>"; };
 		CF3ED98A18965AD600371BD9 /* Triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Triangle.h; sourceTree = "<group>"; };
 		CF3ED98B189661DD00371BD9 /* Populating_Next_Right_Pointers_in_Each_Node_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Populating_Next_Right_Pointers_in_Each_Node_II.h; path = ../Populating_Next_Right_Pointers_in_Each_Node_II.h; sourceTree = "<group>"; };
 		CF3ED98D189666D500371BD9 /* Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Path_Sum.h; sourceTree = "<group>"; };
-		CF3ED98E1896670D00371BD9 /* Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Tree.h; sourceTree = "<group>"; };
+		CF3ED98E1896670D00371BD9 /* Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Tree.h; path = "Binary Tree/Tree.h"; sourceTree = "<group>"; };
 		CF3ED993189784D800371BD9 /* Sum_Root_to_Leaf_Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sum_Root_to_Leaf_Numbers.h; sourceTree = "<group>"; };
 		CF3ED994189792E700371BD9 /* Path_Sum_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Path_Sum_II.h; sourceTree = "<group>"; };
 		CF3ED995189796DC00371BD9 /* Minimum_Depth_of_Binary_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Minimum_Depth_of_Binary_Tree.h; sourceTree = "<group>"; };
@@ -160,7 +161,6 @@
 				CF6816241895DFC20094F42C /* Binary_Tree_Maximum_Path_Sum.h */,
 				CF3ED98D189666D500371BD9 /* Path_Sum.h */,
 				CF3ED994189792E700371BD9 /* Path_Sum_II.h */,
-				CF3ED98E1896670D00371BD9 /* Tree.h */,
 				CF3ED993189784D800371BD9 /* Sum_Root_to_Leaf_Numbers.h */,
 				CF3ED995189796DC00371BD9 /* Minimum_Depth_of_Binary_Tree.h */,
 				CF3ED996189798F500371BD9 /* Convert_Sorted_List_to_Binary_Search_Tree.h */,
@@ -181,6 +181,7 @@
 				CF46991718836B6100304204 /* Linked_List_Cycle_II.h */,
 				CF6816261895FAB80094F42C /* Copy_List_with_Random_Pointer.h */,
 				CF6816271896341A0094F42C /* Reorder_List.h */,
+				CF0974FC18CAD7E300736723 /* Insertion_Sort_List.h */,
 			);
 			path = "Linked List";
 			sourceTree = "<group>";
@@ -230,6 +231,7 @@
 				CF3ED9901896689000371BD9 /* String */,
 				CF3ED98F1896686700371BD9 /* Linked List */,
 				CF3ED98C189666B500371BD9 /* Binary Tree */,
+				CF3ED98E1896670D00371BD9 /* Tree.h */,
 				CFC937CB1881E0A700F0AD3C /* 3Sum.cpp */,
 				CFC937CC1881E0A700F0AD3C /* 3SumClosest_1.cpp */,
 				CFC937CD1881E0A700F0AD3C /* 4Sum_2.cpp */,
