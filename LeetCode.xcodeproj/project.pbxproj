@@ -40,6 +40,7 @@
 		CF09750018CB1C4700736723 /* Remove_Duplicates_from_Sorted_List_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Remove_Duplicates_from_Sorted_List_II.h; sourceTree = "<group>"; };
 		CF09750118CC108200736723 /* Merge_Two_Sorted_Lists.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Merge_Two_Sorted_Lists.h; sourceTree = "<group>"; };
 		CF09750218CC49D500736723 /* Merge_k_Sorted_Lists.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Merge_k_Sorted_Lists.h; sourceTree = "<group>"; };
+		CF09750318CC7E8500736723 /* Rotate_List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Rotate_List.h; sourceTree = "<group>"; };
 		CF3ED98A18965AD600371BD9 /* Triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Triangle.h; sourceTree = "<group>"; };
 		CF3ED98B189661DD00371BD9 /* Populating_Next_Right_Pointers_in_Each_Node_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Populating_Next_Right_Pointers_in_Each_Node_II.h; path = ../Populating_Next_Right_Pointers_in_Each_Node_II.h; sourceTree = "<group>"; };
 		CF3ED98D189666D500371BD9 /* Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Path_Sum.h; sourceTree = "<group>"; };
@@ -194,6 +195,7 @@
 				CF0974FF18CB15E300736723 /* Partition_List.h */,
 				CF68161C1894D6FB0094F42C /* Remove_Duplicates_from_Sorted_List.h */,
 				CF09750018CB1C4700736723 /* Remove_Duplicates_from_Sorted_List_II.h */,
+				CF09750318CC7E8500736723 /* Rotate_List.h */,
 			);
 			path = "Linked List";
 			sourceTree = "<group>";
