@@ -42,6 +42,7 @@
 		CF09750218CC49D500736723 /* Merge_k_Sorted_Lists.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Merge_k_Sorted_Lists.h; sourceTree = "<group>"; };
 		CF09750318CC7E8500736723 /* Rotate_List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Rotate_List.h; sourceTree = "<group>"; };
 		CF14C30218CD8D1D00427AD4 /* Maximum_Subarray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Maximum_Subarray.h; sourceTree = "<group>"; };
+		CF14C30318CD9C7900427AD4 /* Median_of_Two_Sorted_Arrays.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Median_of_Two_Sorted_Arrays.h; sourceTree = "<group>"; };
 		CF3ED98A18965AD600371BD9 /* Triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Triangle.h; sourceTree = "<group>"; };
 		CF3ED98B189661DD00371BD9 /* Populating_Next_Right_Pointers_in_Each_Node_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Populating_Next_Right_Pointers_in_Each_Node_II.h; path = ../Populating_Next_Right_Pointers_in_Each_Node_II.h; sourceTree = "<group>"; };
 		CF3ED98D189666D500371BD9 /* Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Path_Sum.h; sourceTree = "<group>"; };
@@ -222,6 +223,7 @@
 				CF68161A1894C4730094F42C /* Search_Insert_Position.h */,
 				CF68161F1894E0240094F42C /* Remove_Duplicates_from_Sorted_Array.h */,
 				CF14C30218CD8D1D00427AD4 /* Maximum_Subarray.h */,
+				CF14C30318CD9C7900427AD4 /* Median_of_Two_Sorted_Arrays.h */,
 			);
 			path = Array;
 			sourceTree = "<group>";
