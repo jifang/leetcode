@@ -8,11 +8,13 @@
 
 #include <iostream>
 #include <vector>
+#include <stack>
 #include <map>
 
-#include "Maximum_Depth_of_Binary_Tree.h"
-
 using namespace std;
+
+#include "Remove_Duplicates_from_Sorted_Array_II.h"
+
 
 void printVector(vector<int> &s) {
 	cout << "Vector:[ ";
